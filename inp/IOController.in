@@ -1,0 +1,12 @@
+startStep 0
+endStep 1000000
+saveStep 100
+postStep 100
+postSaveStep 100
+Benchmark 1
+cfl 0.6
+tl 100.0
+dt 0.01
+Binary no
+Tecplot yes
+PostProc no

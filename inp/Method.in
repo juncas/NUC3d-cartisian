@@ -1,0 +1,7 @@
+scheme_time RK3
+scheme_x_ivs weno7js
+scheme_y_ivs weno7js
+scheme_z_ivs weno7js
+scheme_x_vis cd6
+scheme_y_vis cd6
+scheme_z_vis cd6

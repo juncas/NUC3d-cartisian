@@ -1,0 +1,12 @@
+Neqs 5
+EosName IdealGas
+RiemannSolver LF
+PDEModel Euler3d
+ViscousModel Sutherland
+Reynolds 1600.0
+Mach 0.5
+Pt 0.72
+Gamma 1.4
+T_ref 110.4
+T_inf 288.0
+T_wall 2.0
